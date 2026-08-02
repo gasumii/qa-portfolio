@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30630411/README.md)
+[README.md](https://github.com/user-attachments/files/30631530/README.md)
 # 트릭컬 파티마 QA 지원 포트폴리오
 
 > 본 저장소의 QA 산출물은 원작 **트릭컬 리바이브**를 대상으로 직접 작성했습니다.
@@ -53,6 +53,7 @@ TC_ID · 테스트 대상 · 목적 · 사전조건 · 절차 · 예상결과 ·
 ## 배포 전 체크리스트
 
 - [배포 전 체크리스트](./checklist/배포전체크리스트.md) — 24항목 · NG 발생 시 TC ID와 BUG ID를 함께 기재해 추적
+- 라이브 이슈·오류 게시판·교단 콘텐츠 버그는 공식 라운지 오류 게시판에 접수된 실제 유저 제보를 기반으로 정리했으며, 배포 전 체크리스트와 그에 연동된 이벤트 검증 3건(BUG-EVT)은 QA 방법론 적용을 위해 직접 구성한 가상 시나리오 기반 샘플입니다.
 
 ## 파티마 QA 제안 (후속작)
 
