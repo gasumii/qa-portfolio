@@ -1,4 +1,4 @@
-[테마극장_ISTQB.md](https://github.com/user-attachments/files/30626280/_ISTQB.md)
+[테마극장_ISTQB.md](https://github.com/user-attachments/files/30626637/_ISTQB.md)
 # 테스트 케이스 (ISTQB 양식) — 테마극장 로비 HUD
 
 **양식:** ISTQB 기반 (TC_ID · 테스트 대상 · 목적 · 사전조건 · 절차 · 예상결과 · 실제결과 · 결과)  
