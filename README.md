@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/30629718/README.1.md)
+[README.md](https://github.com/user-attachments/files/30629769/README.md)
 # 트릭컬 파티마 QA 지원 포트폴리오
 
 > 본 저장소의 QA 산출물은 원작 **트릭컬 리바이브**를 대상으로 직접 작성했습니다.
