@@ -1,8 +1,8 @@
-[README.md](https://github.com/user-attachments/files/30626626/README.md)
+[README.md](https://github.com/user-attachments/files/30628719/README.md)
 # 트릭컬 리바이브 QA 포트폴리오
 
 > 서브컬처 수집형 RPG **트릭컬 리바이브**를 2.5년 이상 플레이한 코어 유저 관점 +
-> 넥슨 협력사 라이브 게임 모니터링·패치 검증 실무경험 관점으로 작성한 QA 산출물 모음입니다.
+> 넥슨 협력사 라이브 게임 모니터링·패치 검증 실무 경험으로 작성한 QA 산출물 모음입니다.
 
 ---
 
@@ -48,6 +48,13 @@ TC_ID · 테스트 대상 · 목적 · 사전조건 · 절차 · 예상결과 ·
 
 - [배포 전 체크리스트](./checklist/배포전체크리스트.md) — 버그 ID 연동 점검 항목
 
+## 파티마 QA 제안 (후속작)
+
+원작 트릭컬 리바이브의 핵심 강점인 **풀더빙 스토리**를 후속작 파티마 QA에 적용한 테스트 설계 제안입니다.
+서브컬처 게임에서 스토리가 캐릭터 수집 BM·수익에 직결된다는 관점에서, 더빙·자막·연출·환경 4개 영역의 검증 방향을 정리했습니다.
+
+- [파티마 스토리 QA 제안서](./proposals/파티마_스토리_QA_제안.md)
+
 ---
 
 ## 작성 관점
@@ -59,10 +66,10 @@ TC_ID · 테스트 대상 · 목적 · 사전조건 · 절차 · 예상결과 ·
 
 ## 사용 도구
 
-- 문서: Markdown / Excel  
+- 문서: Markdown / Excel
 - 버전 관리: Git / GitHub
-- 이슈 트래킹: Jira / Confluence / notion (실무 경험)
-- 자격증: ISTQB CTFL (2026 08.13 시험 준비 중)
+- 이슈 트래킹: Jira / Confluence / notion / google sheet (실무 경험)
+- 자격증: ISTQB CTFL (2026.08.13 시험예정 )
 
 ## 작성자
 
