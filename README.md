@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31860317/README.md)
+[Uploading README.md…]()
 # QA 포트폴리오 — 이영준
 
 > 모바일 수집형 RPG **트릭컬 리바이브**의 실행 기록과, PC 게임 2종의 테스트 설계로 구성했습니다.
@@ -48,6 +48,8 @@
 | [테마극장](section-a-patch-tc/테마극장.md) | 36건 |
 | [활동일지](section-a-patch-tc/활동일지.md) | 35건 |
 | [드림랜드](section-a-patch-tc/드림랜드.md) | 27건 |
+
+Section A는 이미 서비스 중인 안정된 콘텐츠를 대상으로, 결함을 찾는 것보다 **검증 범위를 빠짐없이 덮는 데** 목적을 두었습니다. 결함을 탐지하고 후속 처리한 사례는 Section B와 Section C·D를 참고해 주세요.
 
 드림랜드 27건 중 26건은 기간 한정 콘텐츠 종료로 미실행(N/T·N/A) 처리했습니다. 검증 항목 자체는 설계해두고, 실행 가능한 시점에 돌릴 대상으로 남겨두었습니다.
 
