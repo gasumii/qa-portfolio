@@ -1,3 +1,4 @@
+[PC_TC.md](https://github.com/user-attachments/files/31861162/PC_TC.md)
 # PC 게임 테스트 설계 — Section C · D
 
 > 모바일 중심이던 검증 축을 넓히기 위해, 오래 플레이한 PC 게임 두 종을 대상으로 작성한 테스트 설계입니다.
