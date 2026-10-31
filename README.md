@@ -14,7 +14,7 @@
 | 구분 | 대상 | 규모 | 성격 |
 |---|---|---:|---|
 | **Section A** | 트릭컬 리바이브 · 패치 대응 | 1,115건 | 실행 기록 |
-| **Section B** | 트릭컬 리바이브 · ISTQB 양식 | 39건 | 실행 기록 (FAIL 3 · BLOCK 1) |
+| **Section B** | 트릭컬 리바이브 · ISTQB 양식 | 39건 | 실행 기록 (FAIL 3 · BLOCK 1은 가상 결과) |
 | **Section C** | PC MMORPG · 장비 강화 | 19건 | 테스트 설계 |
 | **Section D** | PC AOS · 아이템 제작 | 16건 | 테스트 설계 |
 | 버그 리포트 | 라이브 · 유저 제보 · 콘텐츠 · 배포 전 | 16건 | 13건 실제 / 3건 가상 |
@@ -71,7 +71,7 @@ TC_ID · 테스트 대상 · 목적 · 사전조건 · 절차 · 예상결과 ·
 
 **결과** — PASS 34 / FAIL 3 / BLOCK 1 / SKIP 1 (통과율 87.2%)
 
-선행 TC가 실패하면 후속 TC를 BLOCK으로 처리하고, 체크리스트 NG 항목과 버그 ID로 연결했습니다. 실제로 TT-010이 실패하면서 TT-011이 BLOCK으로 이어졌고, 해당 항목은 체크리스트 NG와 버그 리포트까지 같은 ID로 추적됩니다.
+PASS·SKIP은 실제 플레이로 확인한 결과이고, FAIL 3건과 BLOCK 1건은 결함 처리 흐름을 보여 주려고 만든 **가상 결과**입니다. 선행 TC가 실패하면 후속 TC를 BLOCK으로 처리하고, 체크리스트 NG 항목과 버그 ID로 연결했습니다. 예를 들어 TT-010(가상 FAIL)이 실패하면 TT-011이 BLOCK으로 이어지고, 해당 항목은 체크리스트 NG와 버그 리포트까지 같은 ID로 추적됩니다.
 
 → [테마극장 로비 HUD (39건)](section-b-istqb-tc/테마극장_ISTQB.md)
 
@@ -219,7 +219,7 @@ QA가 결함을 찾는 데서 멈추지 않고 "무엇을 어떻게 개선하면
 |---|---|
 | 문서 | Markdown / Excel (드롭다운·조건부 서식 적용) |
 | 버전 관리 | Git / GitHub |
-| 이슈 트래킹 | Jira / Confluence / Notion / Google Sheets |
+| 이슈·문서 | Notion (기록) / Google Sheets / Jira · Confluence (이슈·문서 열람·확인) |
 
 ---
 
